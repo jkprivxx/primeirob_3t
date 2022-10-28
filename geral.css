@@ -1,1 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.calculadora {
+ background: purple;
+ width: 200px;
+ padding: 10px;
+ text-align: center;
+border-radius: 10px;
+    
+}
+.calculadora input{
+    padding: 5px;
+    color: red;
+    border-radius: 5px;
+}
+#spototalgeral {
+    background: black;
+    color: pink;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
 
