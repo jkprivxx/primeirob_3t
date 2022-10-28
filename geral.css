@@ -15,6 +15,13 @@ border-radius: 10px;
     color: red;
     border-radius: 5px;
 }
+.calculadora button {
+    padding: 5px;
+    margin-top: 10px;
+    background: rgb(9, 59, 92);
+    color: white;
+    border-radius: 15px;
+}
 #spototalgeral {
     background: black;
     color: pink;
@@ -22,4 +29,5 @@ border-radius: 10px;
     border-radius: 5px;
     margin-bottom: 10px;
 }
+
 
